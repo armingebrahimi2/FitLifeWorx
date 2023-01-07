@@ -1,0 +1,21 @@
+FitLifeWorx - Privacy Notice
+
+The use of the FitLifeWorx App authorizes the Company/Developer to use your usage information to improve the product. 
+The information about your health and data retrieved from Apple HealthApp remains on the phone. However, your usage of
+the App including but not limted to how often it is launched, if it is setup correctly, which screens are used, which 
+operations succeed or fail may be shared with the Company/Developer. 
+
+Your email address and name may also be saved (encrypted) with the Company/Developer for the purpose of communication 
+with you and to address/resolve problems. This data may be stored on Google Firebase database Google security.
+
+Your password authentication is done locally on the device and your password is stored in Apple Keychain and only 
+accessible using your authenticated Apple device. This information is not saved anywhere else nor is it visible to
+Company/Developer.
+
+Your data is not shared with any other third parties and is used solely by FitLifeWorx Company/Developer in the manner
+described here. Under no circumstance will any of your data be made public to other parties. 
+
+Should any information be hacked, you do agree to indemnify Company/Developer other than when the Company/Developer purposely
+makes the information available. 
+
+This privacy note may be updated from time to time and available on this repository. This notice was updated on January 6, 2022.
